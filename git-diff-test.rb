@@ -9,9 +9,3 @@ class GitDiffTest
   def do_otherthing
   end
 end
-
-begin
-  # do something bad
-rescue Exception
-  nil
-end
